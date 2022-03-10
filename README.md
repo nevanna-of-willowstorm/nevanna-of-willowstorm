@@ -1,4 +1,8 @@
-### Hi there 👋
+### Nevanna
+ 
+## I'm Nevanna. I write code. I like writing code. I've been getting a paycheck for it for over 15 years now. 
+
+## I figured it was way passed time I created a personal repo on github for my own projects. 
 
 <!--
 **nevanna-of-willowstorm/nevanna-of-willowstorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
